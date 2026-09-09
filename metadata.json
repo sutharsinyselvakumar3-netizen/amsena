@@ -1,0 +1,6 @@
+{
+  "name": "AI Companion",
+  "description": "Smart Onion Garden Robot control and monitoring application with AI vision weed detection, arm actuation, and safety architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
